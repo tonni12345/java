@@ -17,4 +17,11 @@ public class OperasiMatematika {
 
         // modulus
         System.out.println(a % b);
+
+        // bisa menggunakan
+        a++;
+        System.out.println(a);
+
+        b--;
+        System.out.println(b);
  }
